@@ -1,1 +1,1 @@
-#here we talk about javascript basic
+# Here we will talk about javascript basic
