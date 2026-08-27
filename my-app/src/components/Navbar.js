@@ -1,6 +1,5 @@
 import React from 'react'
-import PropTypes from 'prop-types';
-
+// import PropTypes from 'prop-types';
 
 export default function Navbar(props) {
   return (
@@ -29,12 +28,16 @@ export default function Navbar(props) {
 
   )
 }
-Navbar.propTypes = { 
-  title: PropTypes.string,
-  about: PropTypes.string
-};
 
-Navbar.defaultProps = {
-  title: "enter title",
-  about: "enter about here"
-};
+
+// ye cheez aub React version 19 se ht gayi h 
+
+// Navbar.propTypes = { 
+//   title: PropTypes.string,
+//   about: PropTypes.string
+// };
+
+// Navbar.defaultProps = {
+//   title: "enter title",
+//   about: "enter about here"
+// };
